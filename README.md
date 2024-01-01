@@ -1,2 +1,3 @@
-hello.
-i like making useful (sometimes convoluted) tools for linux!
+Hello!
+I like making useful (sometimes convoluted) tools for linux!
+And sometimes other stuff.
